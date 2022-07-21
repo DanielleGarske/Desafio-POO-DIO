@@ -1,15 +1,21 @@
 Desafio: Aprenda na Prática Programação Orientada a Objetos
 
 Sejam bem-vindos ao desafio: APRENDENDO NA PRÁTICA O PARADIGMA DE ORIENTAÇÃO A OBJETOS.
+
 Desafio este que tive a honra de co-criar com a plataforma de cursos online DIGITAL INNOVATION ONE 🧡💛 e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java.
-gem O objetivo principal é colocar em prática umas das principais ferramentas da OO: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO, através de um projeto Java.
+
+💎 O objetivo principal é colocar em prática umas das principais ferramentas da OO: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO, através de um projeto Java.
 
 ️🔴 Pré-Requisitos
 
 Conhecer a sintaxe da Java
+
 ✔️ Java JDK 11
+
 ✔️ IDE para desenvolvimento Java (usarei IntelliJ)
+
 ✔️ Git
+
 ✔️ Conta no GitHub
 
 👣 Passo-a-Passo
@@ -119,6 +125,8 @@ Este repositório foi criado para fins de estudo, então contribua com ele.
 Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.
 
 Se possível:
+
 ⭐ Star o projeto
-🐛​ Encontrar e relatar issues
+
+🐛 Encontrar e relatar issues
 
